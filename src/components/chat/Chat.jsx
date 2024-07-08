@@ -2,7 +2,7 @@ import "./chat.css";
 
 const Chat = () => {
   return (
-    <div className='chat-container'>Chat</div>
+    <div className='chat'>Chat</div>
   );
 }
 
